@@ -19,5 +19,4 @@
 	=> It should need to be a form to which it needs to enter the basic details like name, duration of rent, absolute date and time of the renting product
 
 	=>in the same page it needs to be a button which gets the user entered data and pops successfully entered the above details(Has api works)
-	
-	https://chat.openai.com/share/634e410a-8b91-44a8-9fe9-b669aedc5008
+
