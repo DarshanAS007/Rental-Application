@@ -1,0 +1,21 @@
+
+=>Firstly show a page of two buttons with create and display
+
+=>Create(no api works)
+
+	=>create a item i,e like football, cycle like that
+	=>Submit Button(Has api works)
+
+=>Display(Has api works)
+
+	=> Search  : It should have a date and time search bar which needs to search the product's availability(Has api works)
+	=> show the list of available items of the list(Has api works)
+		=>it should not include that an previous order placed item's order overlapping time search(Has api works)
+
+	=> if we hover an item card show the rent button to rent(no api works)
+
+=>Renting Page(no api works)
+
+	=> It should need to be a form to which it needs to enter the basic details like name, duration of rent, absolute date and time of the renting product
+
+	=>in the same page it needs to be a button which gets the user entered data and pops successfully entered the above details(Has api works)
